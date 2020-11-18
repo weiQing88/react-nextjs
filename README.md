@@ -1,5 +1,5 @@
 # ssr
-> 基于 nextjs + react 技术栈Web服务端渲染。
+> 基于 nextjs + react + typescript 技术栈Web服务端渲染。
 
 ### 技术栈
 
