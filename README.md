@@ -1,0 +1,2 @@
+# ssr
+nextjs-ssr
